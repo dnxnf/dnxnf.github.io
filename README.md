@@ -35,6 +35,10 @@
 </p>
 
 <p align="center">
+  <a href="https://dnxnf.github.io/" style="font-size: 1.2rem; font-weight: bold; color: #0366d6;">🌐 点击此处访问我的网站: https://dnxnf.github.io/</a>
+</p>
+
+<p align="center">
   <a href="https://farid.one/kaggle-solutions/">
     <img src="assets/images/homepage1.png" style="max-width:100%;">
   </a>
@@ -55,6 +59,9 @@ This repository compiles a comprehensive collection of solutions and ideas from 
 
 ## Usage
 All you need to do is fork the repository. This will automatically create a copy on your GitHub account, accessible at `https://<YOUR_USER_NAME>.github.io/kaggle-solutions`. From there, you can easily explore past competition solutions and take notes in markdown format to enhance your learning experience.
+
+**For this specific fork:**
+> 🚀 **[Click here to visit my deployed website: https://dnxnf.github.io/](https://dnxnf.github.io/)**
 
 
 ## Suggestion
